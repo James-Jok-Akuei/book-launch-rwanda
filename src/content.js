@@ -341,9 +341,9 @@ export const program = [
   { time: "1:40 PM", title: "Welcoming Remarks", detail: "Head of the Program Organizing Committee", section: "Opening" },
   { time: "1:45 PM", title: "Entertainment Interlude", detail: "DJ, MCs and singer", section: "Opening" },
 
-  { time: "1:55 PM", title: "Greeting — Greater Equatoria Student Union in Rwanda", detail: "Tr. Martin Daniel", section: "Representatives" },
-  { time: "2:01 PM", title: "Greeting — Jieng Community in Rwanda", detail: "Simon Mabordit", section: "Representatives" },
-  { time: "2:04 PM", title: "Greeting — Nuer Student Association in Rwanda", detail: "Rep. Chuol", section: "Representatives" },
+  { time: "1:55 PM", title: "Greeting — Jieng Community in Rwanda", detail: "Simon Mabordit", section: "Representatives" },
+  { time: "2:01 PM", title: "Greeting — Nuer Student Association in Rwanda", detail: "Rep. Chuol", section: "Representatives" },
+  { time: "2:04 PM", title: "Greeting — Greater Equatoria Student Union in Rwanda", detail: "Tr. Martin Daniel", section: "Representatives" },
 
   { time: "2:10 PM", title: "Cultural Dance — Twic Mayardit Cultural Group", detail: "Dancers & DJ", section: "Cultural Performances" },
   { time: "2:20 PM", title: "Cultural Dance — Pojulu Cultural Group", detail: "Dancers & DJ", section: "Cultural Performances" },
