@@ -1,0 +1,21 @@
+{
+  "name": "africa-world-books-launch",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Editorial launch website for Africa World Books — 'The Unsung Heroes of the South Sudanese Struggle for Freedom' (Kigali, 27 June 2026).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8"
+  }
+}
